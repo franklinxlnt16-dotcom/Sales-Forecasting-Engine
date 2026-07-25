@@ -40,7 +40,6 @@ The objective of this project was to develop a simple Sales Forecasting Engine u
 ---
 
 ## Project Structure
-## Project Structure
 
 ```text
 Sales-Forecasting-Engine/
@@ -65,13 +64,14 @@ Sales-Forecasting-Engine/
 
 ## Screenshots
 
-### Python Code
+### Code Implementation
+![Code](another%20screenshot.png)
+![Code](2nd%20screenshot.png)
 
-*(Insert your code screenshot here)*
+### Program Output
+![Output](4th%20screenshot.png)
+![Output](3rd%20screenshot.png)
 
-### Sales Forecast Report
-
-*(Insert your report screenshot here)*
 
 ---
 
@@ -93,7 +93,7 @@ Through this project, I strengthened my understanding of:
 
 I sincerely appreciate **SmartBizCrux Technology** for providing this practical learning opportunity.
 
-Special thanks to **Coach Timothy** for his guidance, encouragement, and commitment to helping beginners build a solid foundation in Python programming.
+Special thanks to **Coach Timothy Amaefule** for his guidance, encouragement, and commitment to helping beginners build a solid foundation in Python programming.
 
 ---
 
